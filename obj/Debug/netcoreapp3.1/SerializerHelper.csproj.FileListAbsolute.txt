@@ -1,0 +1,8 @@
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/bin/Debug/netcoreapp3.1/SerializerHelper.deps.json
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/bin/Debug/netcoreapp3.1/SerializerHelper.dll
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/bin/Debug/netcoreapp3.1/SerializerHelper.pdb
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/obj/Debug/netcoreapp3.1/SerializerHelper.csproj.CoreCompileInputs.cache
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/obj/Debug/netcoreapp3.1/SerializerHelper.AssemblyInfoInputs.cache
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/obj/Debug/netcoreapp3.1/SerializerHelper.AssemblyInfo.cs
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/obj/Debug/netcoreapp3.1/SerializerHelper.dll
+/Users/cedric/Projects/SerializerHelper/SerializerHelper/obj/Debug/netcoreapp3.1/SerializerHelper.pdb
